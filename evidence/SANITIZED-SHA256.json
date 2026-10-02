@@ -1,0 +1,14 @@
+{
+  "evidence/SANITIZATION.md": "5abde23a3748f169efcd468b38ae732112d163495d9002f874b12b0bf1af970e",
+  "evidence/case-001-process-create.xml": "c13366ec271f21ec515160de58d416b5dbe9882a03c1bc6c140d7212baa54a76",
+  "evidence/case-002-encoded-powershell.xml": "adc06b8acac4cbddc4d17fb3d1288a901ddf3977b6b6af5653687e936eadba65",
+  "evidence/case-003-normal-powershell.xml": "a6d3a8d2493f35edb0d1615ed5bb14da688551ef48f87c4854893d143e614a70",
+  "evidence/case-004-false-positive-analysis.md": "6205477dbe8582b53044f1f68fe70dde006a5e51b4b3e9f55c558f8f1c7130ee",
+  "evidence/case-004-quoted-flag.xml": "ce69e10f6e6efebf3004e31c07510114796522289c85120cc1f4faff9a9d81d7",
+  "evidence/case-005-child.xml": "fe8bb516d45e56dd6d3dc8af63dc235a2716694e3dbd8dd6dd5adeb134dad57e",
+  "evidence/case-005-parent.xml": "d5cc15f0d8dd50ce0a1d270017271ed06d7fff3dc0e3d98a12ee09708424eb7b",
+  "evidence/network/case-006-curl-process.xml": "250c4454e034ef1d33eed65984806f42b193a878255e3147f7400ff4b3507d40",
+  "evidence/network/case-006-network-unknown.xml": "4a7292fa3a2bc8859e8e2defc535ffbe51948c82bfc52f8ebb6f7c23fa4818fa",
+  "evidence/network/case-006.md": "b25e95d3367dc9af388ad0c4a2f9b9626aabe62f6438804a137143576dc88e60",
+  "evidence/shared-powershell-parent.xml": "db158e2675f75f918ad4738af343d7f078280fe2cb1e0913bf82c8b43ce5414f"
+}

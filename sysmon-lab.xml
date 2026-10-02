@@ -1,0 +1,9 @@
+<Sysmon schemaversion="4.82">
+  <HashAlgorithms>SHA256</HashAlgorithms>
+  <EventFiltering>
+    <ProcessCreate onmatch="exclude" />
+    <NetworkConnect onmatch="include">
+      <Image condition="is">C:\WINDOWS\system32\curl.exe</Image>
+    </NetworkConnect>
+  </EventFiltering>
+</Sysmon>
